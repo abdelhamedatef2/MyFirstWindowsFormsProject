@@ -1,0 +1,11 @@
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\bin\Debug\MyFirstWindowsFormsProject.exe.config
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\bin\Debug\MyFirstWindowsFormsProject.exe
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\bin\Debug\MyFirstWindowsFormsProject.pdb
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.Form1.resources
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.Properties.Resources.resources
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.exe
+C:\Users\abdel\source\repos\MyFirstWindowsFormsProject\obj\Debug\MyFirstWindowsFormsProject.pdb
